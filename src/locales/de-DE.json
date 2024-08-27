@@ -1,0 +1,29 @@
+{
+  "app-name": "Einkaufslisten",
+  "clear": "Löschen",
+  "create": "Erstellen",
+  "dark": "Dunkel",
+  "delete": "Löschen",
+  "edit": "Bearbeiten",
+  "expiration-date": "Verfallsdatum",
+  "language-change": "Sprache wechseln",
+  "languages": {
+    "de-DE": "Deutsch",
+    "en-US": "Englisch"
+  },
+  "light": "Hell",
+  "list-name": "Name der Liste",
+  "list-new": "Neue Liste",
+  "product-expired": "Verfallsdatum erreicht",
+  "product-name": "Produktname",
+  "product-next": "Nächstes Produkt",
+  "product-remove": "Produkt entfernen",
+  "quantity": "Menge",
+  "save": "Speichern",
+  "select-date": "Datum auswählen",
+  "settings": "Einstellungen",
+  "settings-show": "Einstellungen anzeigen",
+  "system": "System",
+  "theme": "Motiv",
+  "theme-message": "Passen Sie Ihr Nutzererlebnis mit hellen und dunklen Themen an."
+}

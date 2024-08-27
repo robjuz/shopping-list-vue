@@ -1,0 +1,29 @@
+{
+  "app-name": "Shopping lists",
+  "clear": "Clear",
+  "create": "Create",
+  "dark": "Dark",
+  "delete": "Delete",
+  "edit": "Edit",
+  "expiration-date": "Expiration date",
+  "language-change": "Change language",
+  "languages": {
+    "de-DE": "German",
+    "en-US": "English"
+  },
+  "light": "Light",
+  "list-name": "List name",
+  "list-new": "New list",
+  "product-expired": "Expiration date reached",
+  "product-name": "Product name",
+  "product-next": "Next product",
+  "product-remove": "Remove product",
+  "quantity": "Quantity",
+  "save": "Save",
+  "select-date": "Select date",
+  "settings": "Settings",
+  "settings-show": "Show settings",
+  "system": "System",
+  "theme": "Theme",
+  "theme-message": "Customize your experience with light and dark themes."
+}
